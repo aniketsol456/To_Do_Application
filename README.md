@@ -42,4 +42,4 @@ dependecies:
         sdk: flutter
     sqflite : ^2.3.0
     path : ^1.8.3
-    provider : ^6.0.5
+    provider : ^6.0.
