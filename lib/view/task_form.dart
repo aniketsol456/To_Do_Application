@@ -1,7 +1,6 @@
 import 'package:ToDo/core/db/application_database.dart';
 import 'package:ToDo/model/task_model.dart';
 import 'package:flutter/material.dart';
-
 import 'home_screen.dart';
 
 class MyTaskForm extends StatefulWidget {
